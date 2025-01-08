@@ -1,2 +1,3 @@
 # Piano-responsive-CSS
 Just some music
+A responsive piano, according to the pages size...
